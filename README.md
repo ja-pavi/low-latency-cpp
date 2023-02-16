@@ -1,4 +1,4 @@
-Low latency trading infrastructure in CPP utilizing a circular buffer
+# Low latency trading infrastructure in CPP, WIP
 
 Performances 
 
