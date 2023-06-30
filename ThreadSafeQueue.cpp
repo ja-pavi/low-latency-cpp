@@ -1,7 +1,3 @@
-//
-// Created by Jian Lu on 12/19/20.
-//
-
 #include "ThreadSafeQueue.h"
 
 template <typename T>

@@ -1,7 +1,3 @@
-//
-// Created by Jian Lu on 12/21/20.
-//
-
 #include <atomic>
 #include <thread>
 #include <iostream>
